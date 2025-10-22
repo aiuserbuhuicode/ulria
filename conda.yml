@@ -1,0 +1,19 @@
+name: ulria-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - lpips
+  - tqdm
+  - matplotlib
+  - einops
+  - pyyaml
+  - pip
+  - pip:
+      - lpips

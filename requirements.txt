@@ -1,0 +1,11 @@
+# Python package requirements for the ulria project.
+numpy
+scipy
+scikit-learn
+torch
+torchvision
+lpips
+tqdm
+matplotlib
+einops
+pyyaml
